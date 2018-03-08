@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Yelo-Blog-Design-Pattern" />
+        <module name="yelo-blog-design-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="Yelo-Blog-Design-Pattern" target="1.8" />
+      <module name="yelo-blog-design-pattern" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

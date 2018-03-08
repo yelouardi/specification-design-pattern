@@ -13,6 +13,6 @@ public class NotSpecification extends AbstractSpecification implements ISpecific
     }
     
     public boolean isSpecifiedBy(Person person) {
-        return !this.abstractSpecification.isSpecifiedBy(person);
+        return !this.abstractSpcification.isSpecifiedBy(person);
     }
 }
